@@ -1,0 +1,61 @@
+﻿id,text,street,category,urgency,department,duplicate_of,is_emergency
+1,There's a huge pothole on Feldstraße right in front of the bakery. A cyclist almost fell this morning!!,Feldstraße,pothole,high,Road Maintenance,,0
+2,"small crack in the road on wiesenweg, not urgent but getting bigger",Wiesenweg,pothole,low,Road Maintenance,,0
+3,"The road surface on Uferstraße is breaking apart, several holes near the bus stop. Cars swerve into the other lane to avoid them.",Uferstraße,pothole,high,Road Maintenance,,0
+4,pothole hauptstrasse still not fixed. reported it last week already!!!,Hauptstraße,pothole,medium,Road Maintenance,1,0
+5,"Deep hole in the asphalt on Ringstraße at the roundabout, my car tyre was damaged",Ringstraße,pothole,high,Road Maintenance,7,0
+6,Poststraße has a few bumps and a shallow hole near number 12.,Poststraße,pothole,medium,Road Maintenance,,0
+7,"Die Straße am Sportplatz hat ein großes Schlagloch, Kinder fahren dort jeden Tag mit dem Fahrrad.",Am Sportplatz,pothole,high,Road Maintenance,,0
+8,hole in road brunnenstr,Brunnenstraße,pothole,medium,Road Maintenance,,0
+9,"A section of the road on Lessingstraße has collapsed, there is a hole almost a meter deep and nobody has put up any barrier. Someone could drive into it tonight.",Lessingstraße,pothole,emergency,Road Maintenance,,1
+10,"The streetlight at the pedestrian crossing on Kastanienallee has been out for 3 days, it's really dangerous at night.",Kastanienallee,streetlight,high,Street Lighting,,0
+11,One lamp on Eichenweg is flickering.,Eichenweg,streetlight,low,Street Lighting,,0
+12,Lamp post near house nr 4 on Lindenstraße doesn't turn on anymore,Lindenstraße,streetlight,medium,Street Lighting,,0
+13,"street lights on schulstrasse STILL broken, it's pitch black when kids come home from after-school club",Schulstraße,streetlight,high,Street Lighting,2,0
+14,Rosenweg lamp still not working,Rosenweg,streetlight,medium,Street Lighting,8,0
+15,The whole row of street lamps along Hafenstraße is dark since yesterday evening.,Hafenstraße,streetlight,high,Street Lighting,,0
+16,"A lamp post on Poststraße was hit by a car and is leaning over the sidewalk, the cables at the bottom are exposed and sparking.",Poststraße,streetlight,emergency,Street Lighting,,1
+17,the light is broken at the corner of Bahnhofstraße,Bahnhofstraße,streetlight,medium,Street Lighting,,0
+18,Someone dumped an old sofa and several garbage bags next to the recycling containers on Feldstraße.,Feldstraße,garbage,medium,Waste Management,,0
+19,"bins overflowing on uferstraße again, rats everywhere",Uferstraße,garbage,medium,Waste Management,,0
+20,"Illegal dumping of construction waste (bricks, paint buckets) in the green area on Wiesenweg. Some of the buckets are leaking.",Wiesenweg,garbage,high,Waste Management,,0
+21,Litter all over the playground in the Parkstraße park after the weekend,Parkstraße,garbage,medium,Waste Management,3,0
+22,"The glass container at Marktplatz is full and people are leaving bottles on the ground, broken glass everywhere",Marktplatz,garbage,high,Waste Management,9,0
+23,A few pieces of paper and cans on Goethestraße.,Goethestraße,garbage,low,Waste Management,,0
+24,Auf dem Eichenweg liegen seit Tagen Müllsäcke am Straßenrand.,Eichenweg,garbage,medium,Waste Management,,0
+25,"Somebody dumped barrels with a strong chemical smell behind the shops on Hafenstraße, my eyes are burning when I walk past.",Hafenstraße,garbage,emergency,Waste Management,,1
+26,Old furniture lying around on Brunnenstraße for 2 weeks,Brunnenstraße,garbage,low,Waste Management,,0
+27,"New graffiti on the wall of the primary school on Schulstraße, some of the words are offensive.",Schulstraße,graffiti,medium,City Cleaning,,0
+28,Someone sprayed paint all over the bus stop on Kastanienallee,Kastanienallee,graffiti,low,City Cleaning,,0
+29,graffiti tunnel bahnhofstr still there,Bahnhofstraße,graffiti,low,City Cleaning,4,0
+30,"Tags on the town hall walls, really ugly for visitors",Am Rathaus,graffiti,low,City Cleaning,18,0
+31,"Racist slogans sprayed on the bridge at Uferstraße, needs to be removed quickly.",Uferstraße,graffiti,high,City Cleaning,,0
+32,Small stickers and marker scribbles on the traffic sign on Lessingstraße.,Lessingstraße,graffiti,low,City Cleaning,,0
+33,"A big branch fell on the sidewalk on Kastanienallee, people have to walk on the road to get around it.",Kastanienallee,fallen_tree,high,Parks and Trees,,0
+34,"After last night's storm a whole tree is lying across Feldstraße, the road is completely blocked and a power line is hanging down.",Feldstraße,fallen_tree,emergency,Parks and Trees,,1
+35,tree on waldstrasse still lying there,Waldstraße,fallen_tree,medium,Parks and Trees,5,0
+36,Some dead branches in the tree above the playground on Am Stadtpark look like they could fall.,Am Stadtpark,fallen_tree,high,Parks and Trees,,0
+37,"A small tree in the green strip on Birkenweg has fallen over, it's not blocking anything.",Birkenweg,fallen_tree,low,Parks and Trees,,0
+38,Der Baum vor Hausnummer 8 in der Lindenstraße ist halb umgekippt und lehnt gegen ein parkendes Auto.,Lindenstraße,fallen_tree,high,Parks and Trees,,0
+39,"Water is bubbling up from the street on Poststraße, there's a small river along the curb.",Poststraße,water_leak,high,Water Services,,0
+40,Hydrant on Gartenstraße is dripping.,Gartenstraße,water_leak,low,Water Services,,0
+41,"Lindenstraße still has water coming out of the road, it's been days",Lindenstraße,water_leak,medium,Water Services,6,0
+42,"A water main burst on Hafenstraße, the street is flooding fast and water is running into basements.",Hafenstraße,water_leak,emergency,Water Services,,1
+43,"Puddle that never dries on Am Sportplatz even when it hasn't rained, maybe a leak?",Am Sportplatz,water_leak,medium,Water Services,,0
+44,"Friedrichstr water leak getting worse, ice forming on the sidewalk in the mornings now",Friedrichstraße,water_leak,high,Water Services,15,0
+45,"Construction work on Goethestraße starts at 5am every day, way too early.",Goethestraße,noise,low,Public Order Office,,0
+46,Loud music every night until 3am from the bar on Marktplatz,Marktplatz,noise,medium,Public Order Office,,0
+47,Kirchstraße party noise again!!! same as last weekend,Kirchstraße,noise,medium,Public Order Office,10,0
+48,A car alarm has been going off for 2 hours on Schillerstraße,Schillerstraße,noise,medium,Public Order Office,,0
+49,my neighbor's dog barks all night on Rosenweg,Rosenweg,noise,low,Public Order Office,,0
+50,"The bench in the park on Am Stadtpark is broken, a slat is missing.",Am Stadtpark,other,low,Citizen Service Center,,0
+51,"The playground swing on Parkstraße has a broken chain, a kid could get hurt.",Parkstraße,other,high,Citizen Service Center,,0
+52,Bench on Schillerstraße still broken,Schillerstraße,other,low,Citizen Service Center,16,0
+53,Traffic sign at the corner of Ringstraße has been knocked over.,Ringstraße,other,medium,Citizen Service Center,,0
+54,"Something is wrong on my street, please send someone.",Mühlenweg,other,low,Citizen Service Center,,0
+55,There is a strong smell of gas near the school entrance on Schulstraße.,Schulstraße,other,emergency,Citizen Service Center,,1
+56,Abandoned car without plates parked on Wiesenweg for a month.,Wiesenweg,other,low,Citizen Service Center,,0
+57,"Hey, can you tell me when the next bulky waste collection is?",Birkenweg,other,low,Citizen Service Center,,0
+58,"potholes on bergstrasse are worse after the rain, one is now really deep",Bergstraße,pothole,high,Road Maintenance,12,0
+59,"The light in front of Industriestraße 20 is still off, the parking lot is completely dark",Industriestraße,streetlight,medium,Street Lighting,20,0
+60,"Rubbish bags torn open by animals on Mühlenweg, still not collected",Mühlenweg,garbage,medium,Waste Management,14,0

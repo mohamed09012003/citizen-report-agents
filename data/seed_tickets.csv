@@ -1,0 +1,21 @@
+﻿ticket_id,category,street,description,status,created_at
+1,pothole,Hauptstraße,Large pothole near the pharmacy,open,2026-10-06
+2,streetlight,Schulstraße,Several street lamps not working,open,2026-10-07
+3,garbage,Parkstraße,Litter in the park,open,2026-10-08
+4,graffiti,Bahnhofstraße,Graffiti in the pedestrian tunnel,open,2026-10-09
+5,fallen_tree,Waldstraße,Fallen tree on the verge,open,2026-10-10
+6,water_leak,Lindenstraße,Water coming out of the road,open,2026-10-11
+7,pothole,Ringstraße,Pothole at the roundabout,open,2026-10-12
+8,streetlight,Rosenweg,Lamp post not working,open,2026-10-13
+9,garbage,Marktplatz,Glass container overflowing,open,2026-10-14
+10,noise,Kirchstraße,Loud weekend parties,open,2026-10-15
+11,graffiti,Goethestraße,Graffiti on shop shutters,open,2026-10-16
+12,pothole,Bergstraße,Several potholes on the hill,open,2026-10-17
+13,streetlight,Am Stadtpark,Path lighting broken,open,2026-10-18
+14,garbage,Mühlenweg,Rubbish bags not collected,open,2026-10-19
+15,water_leak,Friedrichstraße,Leak on the sidewalk,open,2026-10-20
+16,other,Schillerstraße,Broken bench,open,2026-10-21
+17,pothole,Gartenstraße,Pothole in front of the kindergarten,open,2026-10-22
+18,graffiti,Am Rathaus,Tags on the town hall,open,2026-10-23
+19,garbage,Birkenweg,Bulky waste on the sidewalk,open,2026-10-24
+20,streetlight,Industriestraße,Parking lot light off,open,2026-10-05

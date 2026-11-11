@@ -1,0 +1,14 @@
+﻿crew,department,base_street,available
+Road Crew 1,Road Maintenance,Hauptstraße,1
+Road Crew 2,Road Maintenance,Feldstraße,1
+Road Crew 3,Road Maintenance,Hafenstraße,0
+Lighting Crew 1,Street Lighting,Bahnhofstraße,1
+Lighting Crew 2,Street Lighting,Eichenweg,0
+Waste Crew 1,Waste Management,Mühlenweg,1
+Waste Crew 2,Waste Management,Uferstraße,1
+Cleaning Crew 1,City Cleaning,Am Rathaus,1
+Tree Crew 1,Parks and Trees,Am Stadtpark,1
+Water Crew 1,Water Services,Friedrichstraße,1
+Water Crew 2,Water Services,Poststraße,0
+Patrol 1,Public Order Office,Marktplatz,1
+Service Desk,Citizen Service Center,Am Rathaus,1
